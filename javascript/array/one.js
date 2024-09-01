@@ -1,3 +1,5 @@
+// array practice
+
 // 50 javascript array questions with answers
 
 // 1. Create an array with 5 different numbers.
